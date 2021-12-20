@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/vedanthello/signup-dhanam-assignment-vedant.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vedanthello/date-filter-dhanam-assignment-vedant.git
